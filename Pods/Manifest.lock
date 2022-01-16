@@ -1,0 +1,16 @@
+PODS:
+  - MJPEGStreamLib (0.2.0)
+
+DEPENDENCIES:
+  - MJPEGStreamLib
+
+SPEC REPOS:
+  trunk:
+    - MJPEGStreamLib
+
+SPEC CHECKSUMS:
+  MJPEGStreamLib: b6369fb6370413b9f76ef0df2c1cac985ee34bfa
+
+PODFILE CHECKSUM: c31951bb2ee4f4d07aa44a9e6079a684619e7dc8
+
+COCOAPODS: 1.11.2
